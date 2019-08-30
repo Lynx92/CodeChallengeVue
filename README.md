@@ -1,4 +1,4 @@
-# cloudappi2
+# /CloudAppi Code Challenge Vue
 
 > A Vue.js project
 
